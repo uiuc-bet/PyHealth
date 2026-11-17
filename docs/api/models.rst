@@ -343,6 +343,7 @@ API Reference
     models/pyhealth.models.APRICOTM
     models/pyhealth.models.ProtoECGNet
     models/pyhealth.models.HeartLang
+    models/pyhealth.models.TaskAug
     models/pyhealth.models.APN
     models/pyhealth.models.TRACE
     models/pyhealth.models.MIRA

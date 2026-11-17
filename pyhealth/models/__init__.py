@@ -115,3 +115,10 @@ from .mira import (
     MIRAConfig as MIRAConfig,
     load_mira_checkpoint as load_mira_checkpoint,
 )
+from .taskaug import (
+    ResNet1D as ResNet1D,
+    TaskAug as TaskAug,
+    TaskAugPolicy as TaskAugPolicy,
+    hyper_step as hyper_step,
+    train_taskaug as train_taskaug,
+)
